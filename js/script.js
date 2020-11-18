@@ -11,6 +11,7 @@ want
 */
 
 
+//this function does this.
 var doCoolStuff = function () {
 	var currentClassName = document.getElementById('cool').className;
 
